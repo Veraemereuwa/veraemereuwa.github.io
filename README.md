@@ -1,2 +1,3 @@
 # veraemereuwa.github.io
-Hellooooo
+Hello
+Welcome to my Data Analytics Portfolio!
